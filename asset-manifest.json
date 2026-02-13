@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.caee508c.js",
-    "static/js/159.26fde8bd.chunk.js": "/static/js/159.26fde8bd.chunk.js",
-    "static/js/37.d6afc820.chunk.js": "/static/js/37.d6afc820.chunk.js",
-    "static/js/455.f5a84c62.chunk.js": "/static/js/455.f5a84c62.chunk.js",
-    "static/js/881.dd91c75c.chunk.js": "/static/js/881.dd91c75c.chunk.js",
-    "static/js/709.2f90428b.chunk.js": "/static/js/709.2f90428b.chunk.js",
-    "index.html": "/index.html",
-    "main.caee508c.js.map": "/static/js/main.caee508c.js.map",
-    "159.26fde8bd.chunk.js.map": "/static/js/159.26fde8bd.chunk.js.map",
-    "37.d6afc820.chunk.js.map": "/static/js/37.d6afc820.chunk.js.map",
-    "455.f5a84c62.chunk.js.map": "/static/js/455.f5a84c62.chunk.js.map",
-    "881.dd91c75c.chunk.js.map": "/static/js/881.dd91c75c.chunk.js.map",
-    "709.2f90428b.chunk.js.map": "/static/js/709.2f90428b.chunk.js.map"
+    "main.js": "/python_games/static/js/main.35566bac.js",
+    "static/js/159.26fde8bd.chunk.js": "/python_games/static/js/159.26fde8bd.chunk.js",
+    "static/js/37.d6afc820.chunk.js": "/python_games/static/js/37.d6afc820.chunk.js",
+    "static/js/455.f5a84c62.chunk.js": "/python_games/static/js/455.f5a84c62.chunk.js",
+    "static/js/881.dd91c75c.chunk.js": "/python_games/static/js/881.dd91c75c.chunk.js",
+    "static/js/709.2f90428b.chunk.js": "/python_games/static/js/709.2f90428b.chunk.js",
+    "index.html": "/python_games/index.html",
+    "main.35566bac.js.map": "/python_games/static/js/main.35566bac.js.map",
+    "159.26fde8bd.chunk.js.map": "/python_games/static/js/159.26fde8bd.chunk.js.map",
+    "37.d6afc820.chunk.js.map": "/python_games/static/js/37.d6afc820.chunk.js.map",
+    "455.f5a84c62.chunk.js.map": "/python_games/static/js/455.f5a84c62.chunk.js.map",
+    "881.dd91c75c.chunk.js.map": "/python_games/static/js/881.dd91c75c.chunk.js.map",
+    "709.2f90428b.chunk.js.map": "/python_games/static/js/709.2f90428b.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.caee508c.js"
+    "static/js/main.35566bac.js"
   ]
 }
