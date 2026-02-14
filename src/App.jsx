@@ -25,9 +25,9 @@ const REGISTRY = [
 		Component: HangmanTemplate,
 	},
 	{
-		id: "add",
-		label: "Add",
-		icon: "＋",
+		id: "diceroll",
+		label: "Diceroll",
+		icon: "🎲",
 		accent: "#34d399",
 		Component: DicerollTemplate,
 	},
